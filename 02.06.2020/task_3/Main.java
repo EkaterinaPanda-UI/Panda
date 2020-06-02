@@ -6,11 +6,7 @@ public class Main {
         }
         return result;
     }
-
-
-
     public static void main(String[] args) {
         System.out.println(multiplication(10));
-
     }
 }
