@@ -29,6 +29,6 @@ public class Cat{
 
         cat1.fight(cat2);
         cat2.fight(cat1);
-        System.out.println(cat1.fight(cat2));
+        //System.out.println(cat1.fight(cat2));
     }
 }
